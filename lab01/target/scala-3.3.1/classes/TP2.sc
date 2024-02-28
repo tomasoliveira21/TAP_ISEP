@@ -20,3 +20,4 @@ def somaNnumerosFReduce(n: Int, inicio:Int)=
 
 somaNnumerosFReduce(50000,0)
 somaNnumerosFReduce(-1,0)
+
